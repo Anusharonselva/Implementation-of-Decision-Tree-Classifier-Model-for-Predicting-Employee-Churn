@@ -65,19 +65,40 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
 
-![Screenshot (214)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/1b63bb77-b875-449e-bcde-3de399ec7581)
+1.data.head()
 
-![Screenshot (215)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/c7ae03c7-6a39-457c-b41f-302958acc202)
+![Screenshot (295)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/5db83970-b8f8-49a2-9a42-bf6d46d7e727)
 
-![Screenshot (216)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/767a32a2-fb67-4df9-8d40-67a8c1d9ebda)
 
-![Screenshot (218)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/6882d730-c067-4892-9cfc-ac862f7657db)
+2.data.info()
 
-![Screenshot (218)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/d26baf92-f32b-4af7-a293-c8ad5589aa53)
+![Screenshot (296)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/918679d9-ceeb-4c98-94d0-ee24de00d941)
 
-![218 1](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/553253f2-95dc-4dc2-93c4-42b7071988f1)
+3.isnull() and sum()
+
+![Screenshot (297)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/0f014662-5fcf-4e3b-947f-87ed265f15b2)
+
+4.data value counts()
+
+![Screenshot (298)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/8d23892f-dbeb-4cb9-9767-4904a03026b1)
+
+5.data.head() for salary
+
+![Screenshot (299)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/a29b2321-6eea-40dc-b89f-c8265b706e06)
+
+6.x.head()
+
+![Screenshot (299) 1](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/08a6b738-e4ae-4c7a-b5a4-2849273910dd)
+
+7.accuracy value
+
+![Screenshot (299) 2](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/6c902442-ec5b-4d64-b247-2ca83710ce7e)
+
+8.data prediction
+
+![Screenshot (300)](https://github.com/Anusharonselva/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405600/daf4ce2a-0193-49fb-ad61-7808f12f1922)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
